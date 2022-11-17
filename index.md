@@ -5,11 +5,11 @@
 ### Graphic Design Projects
 
 [Project 1: Ripped Text Effect](/sample_page)
-<img src="images/Untitled.pngraw=true"/>
+<img src="images/Untitled.png?raw=true"/>
 
 ---
 [Project 2: Album Cover](/pdf/sample_presentation.pdf)
-<img src="images/steve.jpgraw=true"/>
+<img src="images/steve.jpg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
