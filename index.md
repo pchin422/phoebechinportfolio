@@ -1,5 +1,5 @@
 ## Phoebe Chin's Portfolio
-
+<head> <link rel="icon" type="image/x-icon" href="/images/favicon.ico"> </head>
 ---
 
 ### Graphic Design Projects
