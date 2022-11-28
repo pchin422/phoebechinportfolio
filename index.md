@@ -4,7 +4,7 @@
 
 ### Graphic Design Projects
 
-[Project 1: Ripped Text Effect](/sample_page)
+[Project 1: Rippled Text Effect](/sample_page)
 <img src="images/Untitled.png?raw=true"/>
 
 ---
@@ -16,14 +16,22 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
+[Project 4: 3D Face Slice Effect](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[Project 5: Dual Lighting Effect](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
 
 ### Category Name 2
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Rippled Text Effect](http://example.com/)
+- [Album Cover](http://example.com/)
+- [Double Color Exposure](http://example.com/)
+- [3D Face Slice Effect](http://example.com/)
+- [Dual Lighting Effect](http://example.com/)
 
 ---
 
