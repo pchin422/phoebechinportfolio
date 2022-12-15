@@ -42,8 +42,9 @@
 
 ---
 
+### My Midterm Project
 
-
+- [Midterm Project - Animal Shelter](https://phoebes-dog-shelter.w3spaces.com/#)
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
