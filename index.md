@@ -19,26 +19,26 @@
 
 ---
 [Project 4: 3D Face Slice Effect](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/faceslice.jpg?raw=true"/>
 
 ---
-[Project 5: Dual Lighting Effect](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project 5: Postcard Project](http://example.com/)
+<img src="images/postcard.jpg?raw=true"/>
 
 ---
-[Project 6: Dual Lighting Effect](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project 6: Double Color Exposure](http://example.com/)
+<img src="images/doublecolor.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### My Web Design Project
 
-- [Rippled Text Effect](http://example.com/)
-- [Album Cover](http://example.com/)
-- [Surreal Animal Mashup](http://example.com/)
-- [3D Face Slice Effect](http://example.com/)
-- [Dual Lighting Effect](http://example.com/)
-- [Dual Lighting Effect](http://example.com/)
+- [Project 1 My Favorite Celebrity Project](https://trinket.io/html/d0ccf2d709)
+- [Project 2 Sticker Project](https://trinket.io/html/aa5252f924)
+- [Project 3 Tell a Story Project](https://trinket.io/html/60df32a8dd)
+- [Project 4 Sunrise Animation](https://trinket.io/html/6cbcf883d8)
+- [Project 5 About Me](https://trinket.io/html/fde90afeeb)
+- [Sweet Scroll Starter](https://trinket.io/html/d98b7fe3fd)
 
 ---
 
